@@ -10,8 +10,6 @@ Para iniciar sesión, los usuarios deben estar previamente registrados, con una 
 - No se permiten contraseñas vacías ni sin confirmar.  
 - Las credenciales incorrectas mostrarán un mensaje de error.
 
-En caso de olvidar la contraseña, se puede acceder a la opción **"¿Olvidaste tu contraseña?"** desde la pantalla de login para recuperarla mediante correo electrónico.
-
 ### Credenciales de prueba
 - **Correo:** `test@test.com`  
 - **Contraseña:** `Test2025`
