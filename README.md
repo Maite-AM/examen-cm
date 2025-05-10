@@ -1,16 +1,17 @@
 # flutter_application_1
 
-A new Flutter project.
+## Reglas del Login y Registro
 
-## Getting Started
+Para iniciar sesión, los usuarios deben estar previamente registrados, con una dirección de correo válida y una contraseña que cumpla con los siguientes requisitos:
 
-This project is a starting point for a Flutter application.
+- La contraseña debe tener **al menos 8 caracteres**.  
+- Debe contener **al menos una letra mayúscula**.  
+- Debe incluir **al menos un número**.  
+- No se permiten contraseñas vacías ni sin confirmar.  
+- Las credenciales incorrectas mostrarán un mensaje de error.
 
-A few resources to get you started if this is your first Flutter project:
+En caso de olvidar la contraseña, se puede acceder a la opción **"¿Olvidaste tu contraseña?"** desde la pantalla de login para recuperarla mediante correo electrónico.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Credenciales de prueba
+- **Correo:** `test@test.com`  
+- **Contraseña:** `Test2025`
