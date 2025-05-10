@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1001608364832",
+    "project_id": "examencmovil",
+    "storage_bucket": "examencmovil.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001608364832:android:a1cdacf034f7727cb7cd45",
+        "android_client_info": {
+          "package_name": "com.examen_cm_mam.app_flutter_cm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAEdi51GVn1ZHptwhq1nNMsHAg5w8QTw8"
+        },
+        {
+          "current_key": "AIzaSyDN2Bf2bYBCxQIt8H93Wk7zmHPlsuH7J6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001608364832:android:729cb92a2c52e800b7cd45",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAEdi51GVn1ZHptwhq1nNMsHAg5w8QTw8"
+        },
+        {
+          "current_key": "AIzaSyDN2Bf2bYBCxQIt8H93Wk7zmHPlsuH7J6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

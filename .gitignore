@@ -23,8 +23,6 @@ migrate_working_dir/
 # is commented out by default.
 #.vscode/
 
-lib/firebase_options.dart
-android/app/google-services.json
 
 # Flutter/Dart/Pub related
 **/doc/api/
